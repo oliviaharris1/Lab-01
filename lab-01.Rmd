@@ -193,8 +193,6 @@ _Look at the help pages for the `mean()` and `median()` commands to see what the
 **Write your answer here**
 
 
-
-
 ## Question 7
 
 _Which setting (inside, outside or mixed) has the largest mean visitor numbers in 2022?_
